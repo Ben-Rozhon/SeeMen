@@ -62,7 +62,10 @@ getgenv().SeeMen = {
         },
 
         Misc = {
-            
+            speed = false,
+            speedValue = 20,
+            speedLadderValue = 0,
+            noAcceleration = false,
         }
     }
 }
